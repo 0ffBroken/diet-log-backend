@@ -1,0 +1,12 @@
+{
+  "name": "dietlog-collector",
+  "version": "1.0.0",
+  "description": "食记 Diet Log 数据收集后端",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
